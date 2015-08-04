@@ -93,7 +93,7 @@ Now your hackbot should be working fully in your slack team.
 ### Scripting
 
 An example script is included at `scripts/example.coffee`, so check it out to
-get started, along with the [Scripting Guide](scripting-docs).
+get started, along with the [Scripting Guide](https://hubot.github.com/docs/scripting/).
 
 For more information or examples you can visit  
 https://hubot.github.com/docs/  
